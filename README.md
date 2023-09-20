@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @omarnahdi
 - 👀 I’m interested in AI,NLP,NN,RL & ML technologies
 - 🌱 I’m currently persuing Diploma in AI & ML
-- 💞️ I’m looking to collaborate on Linkln www.linkedin.com/in/omarnahdi
-- 📫 How to reach me just msg on Linkln
+- 💞️ I’m looking to collaborate on Linkedln www.linkedin.com/in/omarnahdi
+- 📫 How to reach me just msg on Linkedln
 
 <!---
 omarnahdi/omarnahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
