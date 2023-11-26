@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omarnahdi
 - 👀 I’m interested in AI,NLP,NN,RL & ML technologies
 - 🌱 I’m currently persuing Diploma in AI & ML
-- 🔗 I’m looking to collaborate on [Linkedln](www.linkedin.com/in/omarnahdi)
+- 🔗 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/omarnahdi)
 - 📫 How to reach me just msg on Linkedln
 
 <!---
