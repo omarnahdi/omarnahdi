@@ -1,11 +1,27 @@
-- 👋 Hi, I’m @omarnahdi
-- 👀 I’m interested in AI, NLP, NN, RL & ML technologies
-- 🌱 completed my Diploma in AI & ML.
-- 📖 Persuing Bachelor's in AI and ML.
-- 🔗 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/omarnahdi)
-- 📫 How to reach me just msg on Linkedln
+# 💫 About Me:
+## 👋 Hey, I’m Omar Nahdi  <br><br>I’m an AI & ML engineer in the making, currently pursuing my **B.E. in Artificial Intelligence and Machine Learning**. I specialize in **machine learning, deep learning, and AI agent systems**, with a knack for building end-to-end projects — from small LLMs to real-time AI applications.  <br><br>💡 **What I’m working on**  <br>- Advancing my deep learning skills with PyTorch, transformers, and diffusion models  <br>- Experimenting with custom LLMs (1M–10M parameters) and made my own one too!<br>- Building AI agents for enterprise & startup use cases under *something*  <br>- Enhancing **Narrative AI** with new features and performance improvements  <br><br>🛠 **Tech & Tools I use**  <br>- **Languages:** Python, JavaScript (with React/TS for UI), SQL  <br>- **AI/ML:** PyTorch, Hugging Face, CrewAI, LangChain, Agno, diffusion models  <br>- **Cloud & Deployment:** AWS Lambda (Dockerized), Railway, Neon, WSL  <br>- **Other:** SignalWire (real-time audio), RAG pipelines, API integrations  <br><br>🚀 **Fun side quests**  <br><br>- Tinkering with vector databases (Qdrant, Weaviate) and retrieval pipelines  <br>- Exploring AI co-founder concepts and next-gen knowledge work libraries  <br><br>📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/omarnahdi/)
 
-<!---
-omarnahdi/omarnahdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarnahdi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmarNahdiAI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarnahdi.ai@gmail.com) 
+
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Single Store](https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=omarnahdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omarnahdi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarnahdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=omarnahdi&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=omarnahdi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=omarnahdi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
