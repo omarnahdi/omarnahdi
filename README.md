@@ -47,6 +47,5 @@ I’m an AI & ML engineer in the making, currently pursuing my **B.E. in Artific
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omarnahdi&icon=0&color=0)](https://visitcount.itsvg.in)
-![Omar's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=omarnahdi)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
