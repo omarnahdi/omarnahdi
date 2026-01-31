@@ -2,7 +2,7 @@
 
 ## 👋 Hey, I’m Omar Nahdi
 
-I’m an AI & ML engineer in the making, currently pursuing my **B.E. in Artificial Intelligence and Machine Learning**. I specialize in **machine learning, deep learning, and AI agent systems**, with a knack for building end-to-end projects — from small LLMs to real-time AI applications.
+I’m an AI & ML Engineer and Agent Systems Architect, currently pursuing my **B.E. in Artificial Intelligence and Machine Learning**. I specialize in **machine learning, deep learning, and AI agent systems**, with a knack for building end-to-end projects — from small LLMs to real-time AI applications.
 
 💡 **What I’m working on**
 
