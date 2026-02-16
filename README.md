@@ -25,6 +25,7 @@ I’m an AI & ML Engineer and Agent Systems Architect, currently pursuing my **B
 
 📫 **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/omarnahdi/)
 
+**Portfolio:** https://omarnahdi.dev
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omarnahdi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OmarNahdiAI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omarnahdi.ai@gmail.com) 
